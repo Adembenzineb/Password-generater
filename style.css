@@ -1,0 +1,44 @@
+.generat {
+    background-color: #ECF8F6;
+    font-size: 30px;
+    color: #226D68;
+    text-align: center;
+    width: 50%;
+    margin: 150px auto;
+    border-radius: 30px;
+    border: 1px solid;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#zone {
+    margin: 20px;
+    font-size: 30px;
+    padding: 15px;
+    width: 60%;
+    border-radius: 20px;
+    border: 2px solid #226D68;
+}
+
+#cop{
+    width: 70px;
+    height: 70px;
+    border: 3px solid #226D68;
+    border-radius: 20px;
+    color: #226D68;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+#button {
+    margin: 40px;
+    font-size: 20px;
+    color: #ECF8F6;
+    background-color: #226D68;
+    padding: 10px 20px;
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+}
+.button:hover{
+    transform: scale(1.03);
+}
